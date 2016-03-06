@@ -1,0 +1,17 @@
+*.iml
+*.ipr
+*.iws
+*.pyc
+*.tm.epoch
+*.vim
+*-shim.sbt
+.idea/
+tmp
+bower_components
+node_modules
+*.log
+*.pem
+*.p12
+lib/www/static
+server/static
+.senzflow.json
